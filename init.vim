@@ -25,6 +25,7 @@ set completeopt=longest,menu
 " set fdm=indent
 
 " noremap \ ,
+let g:mapleader = ";"
 noremap H ^
 noremap L $
 noremap j gj
